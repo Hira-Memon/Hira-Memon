@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🖥️  Microcontrollers: STM32, RaspberryPi  <br>🛠️  Embedded Tools: JTAG Tools (Segger J-Link, ST-Link V2, ESP-Prog board), NI CompactDAQ, IAR Embedded Workbench, e2 studio, MCUXpresso</p>
+<p align="left">🖥️  Microcontrollers and MPs: STM32, RaspberryPi  <br>🛠️  Embedded Tools: JTAG Tools (Segger J-Link, ST-Link V2, ESP-Prog board), NI CompactDAQ, IAR Embedded Workbench, e2 studio, MCUXpresso</p>
 
 ###
 
