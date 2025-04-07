@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🧠 Classification of Brain Signals: Developed a CNN-LSTM model to classify seizure EEG signals with 0.933 precision and 0.876 F1 score <br>🔥 Furnace Temperature Control: Built an STM32-based system to automatically regulate furnace temperature <br>⚡ 3-Phase Synchronous Generator: Designed a generator outputting 220V to efficiently power a motor <br>📡 F-shaped Patch Microstrip Antenna: Simulated and optimized a patch microstrip antenna for frequency and gain <br>🛳️ Choropleth Map: Developed a D3.js map to track naval ships across 9 sea areas <br>🤖 Underwater Diver Robot: Created an underwater robot with camera and depth sensing, interfaced via Raspberry Pi</p>
+<p align="left">🧠 Classification of Brain Signals: Developed a CNN-LSTM model to classify seizure EEG signals <br>🔥 Furnace Temperature Control: Built an STM32-based system to automatically regulate furnace temperature <br>⚡ 3-Phase Synchronous Generator: Designed a generator outputting 220V to efficiently power a motor <br>📡 F-shaped Patch Microstrip Antenna: Simulated and optimized a patch microstrip antenna for frequency and gain <br>🛳️ Choropleth Map: Developed a D3.js map to track naval ships across 9 sea areas <br>🤖 Underwater Diver Robot: Created an underwater robot with camera and depth sensing, interfaced via Raspberry Pi</p>
 
 <h2 align="left">Frameworks I use</h2>
 
